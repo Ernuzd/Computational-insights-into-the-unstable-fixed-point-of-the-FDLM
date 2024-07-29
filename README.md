@@ -1,4 +1,4 @@
-The purpose of this repository is to provide source code of the relevant tables and graphs to verify the computational experiments conducted in the article here
+The purpose of this repository is to provide source code of the relevant tables and graphs to verify the computational experiments conducted in the article here in the order they are arranged in the manuscript.
 
 A brief description of each file:
 
